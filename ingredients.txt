@@ -2,3 +2,4 @@
 salt
 1/2 onion
 cilantro
+jalapeno
